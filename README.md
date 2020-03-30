@@ -13,3 +13,6 @@ For every assignment, there will be a folder in the root folder of the repositor
 * Create a pull request to "submit" your solution
 
 If nobody in your group knows how to fork and request pulls, talk to us (Bahman or me).
+
+### Copyright
+Please note: I attached Apache 2.0 license to the repository. By committing to it, you are licensing your contributions in that way.

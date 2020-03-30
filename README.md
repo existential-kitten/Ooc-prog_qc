@@ -1,6 +1,7 @@
 
 ##### Ooc-prog_qc
-# Spring 2020 Open Online Course: Programming Quantum Computers
+## Spring 2020 Open Online Course:
+# Programming Quantum Computers
 
 This repository is for student groups to collaborate on their programming assignments.
 For every assignment, there will be a folder in the root folder of the repository. For every assignment, every group will have **their own sub-folder** for their solution (and tests etc).

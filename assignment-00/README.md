@@ -8,4 +8,5 @@ Due Wednesday, April 1
 1. Check you Qiskit version.
 
 Nothing needs to be submitted for this "assignment".
+
 On Wednesday, we discuss and make sure everybody has managed to get everything working.

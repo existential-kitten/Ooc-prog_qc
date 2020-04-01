@@ -19,7 +19,6 @@ Get a little deeper into the matter:
 ##### Hand in
 
 1. Find a fancy name for your group
-1. Create a sub-folder of this folder (...............................................
-.........................Upload the following to your group's sub-folder of this folder on GitHub:
-
-A file containing a function `make_ghz3(shots, device)` which creates quantum circuit, sends it to the given quantum device to be run for the given number of shots. The function should return an object of the class `Result` (https://qiskit.org/documentation/stubs/qiskit.result.Result.html).
+1. Create a sub-folder of this folder (Ooc-prog_qc/assignment-01) with that name
+1. Upload (pull request) the following to your group's sub-folder:
+     * A file containing a function `make_ghz3(shots, device)` which creates quantum circuit, sends it to the given quantum device to be run for the given number of shots. The function should return an object of the class `Result` (https://qiskit.org/documentation/stubs/qiskit.result.Result.html).

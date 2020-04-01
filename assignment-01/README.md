@@ -2,7 +2,7 @@
 
 ### Tasks
 * Continue watching Abe's video #2 (from 5:49 https://youtu.be/M4EkW4VwhcI?t=349)
-* Watch Video #3
+* Watch video #3
 
 Everybody in your group should get an IBM Q account, store their access token on their computer, and be able to use it, e.g., do the same as Abe in Video #3.
 

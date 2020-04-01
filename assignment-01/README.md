@@ -12,7 +12,7 @@ Get a little deeper into the matter:
 * Read the Qiskit overview on https://qiskit.org/documentation/the_elements.html
 
 ##### Programming assignment
-* Write Qiskit code which creates a GHZ state $(|000\rangle+|111\ranlge)/\sqrt2$, test it using the simulator which runs on your local computer.
+* Write Qiskit code which creates a GHZ state *|000⟩+|111⟩/√2*, test it using the simulator which runs on your local computer.
 * Run your quantum circuit on one of the quantum devices.
 * Figure out how to change the number of *shots*, i.e., how often the quantum circuit is run. (This link will help: https://qiskit.org/documentation/apidoc/execute.html)
 
